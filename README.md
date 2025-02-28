@@ -269,7 +269,7 @@ Alternatively you can use non-anchor elements also:
 ```html
 <div class="spotlight" data-src="img1.jpg">
     <!-- image or any other elements -->
-</a>
+</div>
 ```
 
 Pretty much the same like anchors but uses ___data-src___ instead of ___href___.
